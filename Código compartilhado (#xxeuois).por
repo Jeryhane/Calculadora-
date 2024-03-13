@@ -4,6 +4,7 @@ programa {
     inteiro opcao
    // foi ?
     //sim foi ;)
+      // sera que foi mesmo
     escreva("OPERAÇÕES \n")
 
     escreva("1) soma \n")

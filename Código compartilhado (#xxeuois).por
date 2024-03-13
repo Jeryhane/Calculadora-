@@ -3,7 +3,7 @@ programa {
     real a, b, resultado
     inteiro opcao
    // foi ?
-
+    //sim foi ;)
     escreva("OPERAÇÕES \n")
 
     escreva("1) soma \n")

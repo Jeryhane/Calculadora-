@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     real a, b, resultado
     inteiro opcao
-    //teste de commit
+    //teste de commit 2
     escreva("OPERAÇÕES \n")
 
     escreva("1) soma \n")

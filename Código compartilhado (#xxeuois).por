@@ -2,16 +2,17 @@ programa {
   funcao inicio() {
     real a, b, resultado
     inteiro opcao
+   // foi ?
 
-    escreva("OPERAÇÕES \n")
+    escreva("OPERAÃ‡Ã•ES \n")
 
     escreva("1) soma \n")
-    escreva("2) subtração \n")
-    escreva("3) divisão \n")
+    escreva("2) subtraÃ§Ã£o \n")
+    escreva("3) divisÃ£o \n")
     escreva("4) produto \n")
     escreva("5) porcetagem\n\n")
 
-    escreva("escolha sua operação: ")
+    escreva("escolha sua operaÃ§Ã£o: ")
     leia(opcao)
     limpa()
 
@@ -47,7 +48,7 @@ programa {
       pare
 
       caso contrario:
-      escreva("Por favor selicione uma operação")
+      escreva("Por favor selicione uma operaÃ§Ã£o")
     }
     escreva("Resultado: " + resultado)
   }

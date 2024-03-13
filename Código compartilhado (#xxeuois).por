@@ -14,7 +14,7 @@ programa {
     escreva("escolha sua operação: ")
     leia(opcao)
     limpa()
-
+  //oii
     escreva("Agora digite o primeiro valor: ")
     leia(a)
     limpa()
